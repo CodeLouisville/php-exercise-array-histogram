@@ -1,4 +1,4 @@
-# Histogram
+# Array Histogram
 
 For this PHP code exercise, create a file named `histogram.php`. This file should contain a function named `histogram()` which accepts one parameter. This parameter *must* be an array. 
 
